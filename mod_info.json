@@ -5,7 +5,7 @@
 	"version":{
 		"major":3, 
 		"minor":0, 
-		"patch":A,
+		"patch":b,
 	},
 	"description":"A generic flag pack for the player faction, created by ThunderCrims",
 	"gameVersion":"0.98a-RC8",

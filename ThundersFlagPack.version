@@ -1,16 +1,16 @@
 {
-    "masterVersionFile":"https://raw.githubusercontent.com/ThunderWasTaken/Thunders-Flag-Pack/main/ThundersFlagPack.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/ThunderWasTaken/Thunders-Flag-Pack/refs/heads/main/ThundersFlagPack.version",
     "modName":"Thunders_Flag_Pack",
 	"modThreadId":33690,
     "modVersion":
     {
         "major":3,
         "minor":0,
-        "patch":A # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+        "patch":b # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
 	
 	#Link towards a direct download, fetched from the online version file
-	"directDownloadURL":"https://github.com/ThunderWasTaken/Thunders-Flag-Pack/archive/refs/tags/v3.0b.zip",
+	"directDownloadURL":"https://github.com/ThunderWasTaken/ThundersFlagPack/releases/latest/download/ThundersFlagPack.zip",
 	
 	#Link towards a directly accessible text file, which can be used to display a changelog ingame, is fetched from the online version file.
 	"changelogURL":"https://raw.githubusercontent.com/ThunderWasTaken/Thunders-Flag-Pack/refs/heads/main/changelog.txt",
