@@ -1,0 +1,134 @@
+{
+	"id":"player",
+
+	"flags":[
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Artificium_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Artificium_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Cult of Nor_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Cult of Nor_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Elysia_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Elysia_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Evaria_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Evaria_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Imperium Stellarum_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Imperium Stellarum_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Rauwland Oligarchy_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Rauwland Oligarchy_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Shattered Templars_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Shattered Templars_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sunset Confederation_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sunset Confederation_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Tarosian Armada_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Tarosian Armada_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Techno-Paganist Church_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Techno-Paganist Church_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_United Moons_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_United Moons_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Violet Order_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Violet Order_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Cervid Coalition_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Cervid Coalition_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Laserbeam Union_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Laserbeam Union_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Moontouched Syndicate_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Moontouched Syndicate_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Moonward Ascendancy_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Moonward Ascendancy_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Rhezan Aristocracy_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Rhezan Aristocracy_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sixstar Battalion_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sixstar Battalion_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Skyhigh Emissary_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Skyhigh Emissary_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Twinmound Union_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Twinmound Union_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Abyssal Polity_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Abyssal Polity_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Black Hole States_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Black Hole States_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Brown Star Coalition_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Brown Star Coalition_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Greater Onslaught_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Greater Onslaught_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Hyperspace Empire_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Hyperspace Empire_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Remnant Sapiency_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Remnant Sapiency_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Starlight System_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Starlight System_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Epqa Brotherhood_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Epqa Brotherhood_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Greater Cosmopolity_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Greater Cosmopolity_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_M.A.L.I.C.E_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_M.A.L.I.C.E_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_New Explorarium_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_New Explorarium_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_New World Freighters_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_New World Freighters_crest.png"
+		},
+	],
+}
