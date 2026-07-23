@@ -130,5 +130,37 @@
 "logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_New World Freighters_flag.png",
 "crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_New World Freighters_crest.png"
 		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Diktat Dependancy_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Diktat Dependancy_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Indie Humility_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Indie Humility_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_New Domain_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_New Domain_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Penelope's Theocracy_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Penelope's Theocracy_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Tia Subsidiary_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Tia Subsidiary_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Tri-Tach Prosperity Department_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Tri-Tach Prosperity Department_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Vythic Dukedom_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Vythic Dukedom_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Warlord Hostility_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Warlord Hostility_crest.png"
+		},
 	],
 }

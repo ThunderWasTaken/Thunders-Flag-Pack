@@ -1,3 +1,7 @@
+Version 4.0a
+Affiliation Relations
+- Added 8 new flags that are based off of pre-existing vanilla faction flag.
+
 Version 3.0b
 
 - Added Version Checker support, rejoice!
