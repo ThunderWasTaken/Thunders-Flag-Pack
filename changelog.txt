@@ -1,3 +1,7 @@
+Version 5.0a
+Eastern Epics
+- Added 6 new flags based off of eastern titles ranging from Persia to Japan.
+
 Version 4.0a
 Affiliation Relations
 - Added 8 new flags that are based off of pre-existing vanilla faction flag.
