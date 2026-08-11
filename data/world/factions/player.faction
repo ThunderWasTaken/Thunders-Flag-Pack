@@ -162,5 +162,29 @@
 "logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Warlord Hostility_flag.png",
 "crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Warlord Hostility_crest.png"
 		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Corona Shahdom_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Corona Shahdom_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Ivory Raj_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Ivory Raj_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sakura Shogunate_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sakura Shogunate_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Shieldfront Satrapy_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Shieldfront Satrapy_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Supernova Khanate_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Supernova Khanate_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Yijun Dynasties_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Yijun Dynasties_crest.png"
+		},
 	],
 }
