@@ -9,3 +9,7 @@ Affiliation Relations
 Version 3.0b
 
 - Added Version Checker support, rejoice!
+
+Version 4.0a
+Freeless Freedom
+- Added 6 new flags, simple as.

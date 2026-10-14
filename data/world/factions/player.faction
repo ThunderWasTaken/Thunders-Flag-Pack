@@ -186,5 +186,29 @@
 "logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Yijun Dynasties_flag.png",
 "crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Yijun Dynasties_crest.png"
 		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Darkheart Pact_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Darkheart Pact_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Frostbirthed Junta_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Frostbirthed Junta_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Imperial Ambitions_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Imperial Ambitions_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Royal Monarchy_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Royal Monarchy_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Scorched Order_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Scorched Order_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Toxian Metropolis_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Toxian Metropolis_crest.png"
+		},
 	],
 }
