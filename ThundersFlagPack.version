@@ -4,7 +4,7 @@
 	"modThreadId":33690,
     "modVersion":
     {
-        "major":6,
+        "major":7,
         "minor":0,
         "patch":a # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
