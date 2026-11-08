@@ -1,3 +1,11 @@
+Version 7.0a
+Armed Anarchy
+- Added 6 flags based on weaponry
+
+Version 6.0a
+Freeless Freedom
+- Added a bunch of flags
+
 Version 5.0a
 Eastern Epics
 - Added 6 new flags based off of eastern titles ranging from Persia to Japan.

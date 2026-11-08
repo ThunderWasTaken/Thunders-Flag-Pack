@@ -210,5 +210,29 @@
 "logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Toxian Metropolis_flag.png",
 "crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Toxian Metropolis_crest.png"
 		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Ballistic Strikeforce_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Ballistic Strikeforce_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Gun Metal_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Gun Metal_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sabrehand Militia_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sabrehand Militia_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Scepter Corp_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Scepter Corp_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sniper Regiment_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Sniper Regiment_crest.png"
+		},
+		{
+"logo":"graphics/ThunderFlags/factions/custom/ThunderFlags_Stellar Blades_flag.png",
+"crest":"graphics/ThunderFlags/factions/custom/ThunderFlags_Stellar Blades_crest.png"
+		},
 	],
 }
